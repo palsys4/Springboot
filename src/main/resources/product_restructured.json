@@ -1,0 +1,492 @@
+[{
+    "id": "9a63016e-19e4-4ef9-937e-e9a48f4b5630",
+    "version": 88,
+    "productType": {
+        "typeId": "product-type",
+        "id": "fc57f33d-7748-4ac8-a943-1eae518d2fff"
+    },
+    "name": {
+        "en": "Hyalurosmooth® PW LS 8997",
+        "pt": "Hyalurosmooth® PW LS 8997",
+        "de": "Hyalurosmooth® PW LS 8997"
+    },
+    "description": {
+        "en": "This is a nice product ",
+        "es": "Un bueno producto",
+        "pt": "Produto excelente!"
+    },
+    "categories": [
+        {
+            "typeId": "category",
+            "id": "789ff7c3-f1c6-46b3-8b12-24a9c4c50314"
+        },
+        {
+            "typeId": "category",
+            "id": "5028d130-c90d-45ed-85b5-09c0901f40b4"
+        },
+        {
+            "typeId": "category",
+            "id": "3e278f4f-cdd4-40b3-9842-e168b2a0db44"
+        },
+        {
+            "typeId": "category",
+            "id": "5e6621f0-e2f2-4abe-a49d-30dfb1e32c69"
+        },
+        {
+            "typeId": "category",
+            "id": "4fb04fec-1308-4c00-a115-404e33ce743b"
+        },
+        {
+            "typeId": "category",
+            "id": "3128125b-2f39-41ca-a200-04ab047a5ef1"
+        },
+        {
+            "typeId": "category",
+            "id": "9b458b89-0b33-437e-a3b9-7f18633064d4"
+        },
+        {
+            "typeId": "category",
+            "id": "b000e122-c97f-4b18-a6f2-7f0685e135d8"
+        },
+        {
+            "typeId": "category",
+            "id": "8d869aed-e927-419e-8cf1-5522a122343d"
+        },
+        {
+            "typeId": "category",
+            "id": "d801baf4-7c38-400e-967f-bfca4d79ae53"
+        },
+        {
+            "typeId": "category",
+            "id": "358282c8-498f-4957-ae37-b212d3c0168c"
+        },
+        {
+            "typeId": "category",
+            "id": "9556ecf0-8c0e-47bb-8ed2-b2c480db2ab0"
+        },
+        {
+            "typeId": "category",
+            "id": "7e6bf272-0385-4cac-9fcb-de9f48febcba"
+        }
+    ],
+    "categoryOrderHints": {},
+    "slug": {
+        "en": "hyalurosmooth-pw-ls-8997-30538227",
+        "pt": "hyalurosmooth-pw-ls-8997-30538227",
+        "de": "hyalurosmooth-pw-ls-8997-30538227"
+    },
+    "metaTitle": {
+        "en": "Hyalurosmooth PW LS 8997",
+        "pt": "Hyalurosmooth PW LS 8997"
+    },
+    "metaDescription": {
+        "en": "This is a nice product ",
+        "es": "Un bueno producto",
+        "pt": "Produto excelente!"
+    },
+    "variants": [
+        {
+            "id": 2,
+            "sku": "50232738",
+            "key": "50232738",
+            "prices": [],
+            "images": [],
+            "dangerousGoodsIndicator": false,
+            "deletionFlag": true,
+            "packagingSize": 0.02,
+            "name": {
+                "de": "Hyalurosmooth® PW LS 8997 0,02KG Kunststoffkisten",
+                "pt": "Hyalurosmooth® PW LS 8997 0,02KG Caixas de matéria plástica",
+                "en": "Hyalurosmooth® PW LS 8997 0,02KG Plastic boxes"
+            },
+            "packagingSizeText": {
+                "de": "0,02KG Kunststoffkisten",
+                "pt": "0,02KG Caixas de matéria plástica",
+                "en": "0,02KG Plastic boxes"
+            },
+            "isSample": true,
+            "baseUOM": "KGM",
+            "packagingType": {
+                "key": "VERP",
+                "label": "VERP"
+            },
+            "casNumber": "85187-05-9",
+            "technical_name": "INCI Name abc",
+            "productGroup": [
+                {
+                    "pt": "Filtro UVA",
+                    "en": "UVA Filter"
+                }
+            ],
+            "benefits": [
+                {
+                    "pt": "100% de origem natural",
+                    "en": "100% natural origin"
+                },
+                {
+                    "pt": "Vegano",
+                    "en": "Vegan"
+                }
+            ],
+            "materialType": {
+                "key": "PRODUCT",
+                "label": "PRD"
+            },
+            "assets": []
+        },
+        {
+            "id": 3,
+            "sku": "50566154",
+            "key": "50566154",
+            "prices": [],
+            "images": [],
+            "dangerousGoodsIndicator": false,
+            "deletionFlag": false,
+            "packagingSize": 0.01,
+            "name": {
+                "de": "Hyalurosmooth® PW LS 8997 0,01KG Kunststoffkisten",
+                "pt": "Hyalurosmooth® PW LS 8997 0,01KG Caixas de matéria plástica",
+                "en": "Hyalurosmooth® PW LS 8997 0,01KG Plastic boxes"
+            },
+            "packagingSizeText": {
+                "de": "0,01KG Kunststoffkisten",
+                "pt": "0,01KG Caixas de matéria plástica",
+                "en": "0,01KG Plastic boxes"
+            },
+            "isSample": true,
+            "packagingType": {
+                "key": "VERP",
+                "label": "VERP"
+            },
+            "casNumber": "85187-05-9",
+            "technical_name": "INCI Name abc",
+            "productGroup": [
+                {
+                    "pt": "Filtro UVA",
+                    "en": "UVA Filter"
+                }
+            ],
+            "benefits": [
+                {
+                    "pt": "100% de origem natural",
+                    "en": "100% natural origin"
+                },
+                {
+                    "pt": "Vegano",
+                    "en": "Vegan"
+                }
+            ],
+            "storeVisibility": [
+                "carecreations-br"
+            ],
+            "publicStoreVisibility": [
+                "carecreations-br"
+            ],
+            "materialType": {
+                "key": "PRODUCT",
+                "label": "PRD"
+            },
+            "assets": []
+        }
+    ],
+    "searchKeywords": {},
+    "hasStagedChanges": false,
+    "published": true,
+    "key": "30538227",
+    "createdAt": "2022-03-03T11:13:14.567Z",
+    "lastModifiedAt": "2023-01-17T14:30:17.642Z"
+},
+{
+    "id": "9314ff5d-51bf-4682-a35b-4ed3da85ebbb",
+    "version": 98,
+    "productType": {
+        "typeId": "product-type",
+        "id": "fc57f33d-7748-4ac8-a943-1eae518d2fff"
+    },
+    "name": {
+        "zh": "活性物 Proteasyl® TP POE",
+        "en": "Proteasyl® TP POE LS 9818",
+        "de": "Proteasyl® TP POE LS 9818",
+        "es": "Proteasyl TP POE LS 9818",
+        "pt": "Proteasyl® TP POE LS 9818"
+    },
+    "description": {
+        "en": "This is \"Proteasyl TP POE LS 9818\". A great product!",
+        "pt": "Este é \"Proteasyl TP POE LS 9818\". Um óptimo produto!"
+    },
+    "categories": [
+        {
+            "typeId": "category",
+            "id": "789ff7c3-f1c6-46b3-8b12-24a9c4c50314"
+        },
+        {
+            "typeId": "category",
+            "id": "5028d130-c90d-45ed-85b5-09c0901f40b4"
+        },
+        {
+            "typeId": "category",
+            "id": "3e278f4f-cdd4-40b3-9842-e168b2a0db44"
+        },
+        {
+            "typeId": "category",
+            "id": "cfd9a5ee-6d0e-476a-8b61-6f63cc099214"
+        },
+        {
+            "typeId": "category",
+            "id": "4fb04fec-1308-4c00-a115-404e33ce743b"
+        },
+        {
+            "typeId": "category",
+            "id": "490ebfdc-974d-457e-9078-bf3bd1308dda"
+        },
+        {
+            "typeId": "category",
+            "id": "7e6bf272-0385-4cac-9fcb-de9f48febcba"
+        },
+        {
+            "typeId": "category",
+            "id": "b000e122-c97f-4b18-a6f2-7f0685e135d8"
+        },
+        {
+            "typeId": "category",
+            "id": "8d869aed-e927-419e-8cf1-5522a122343d"
+        },
+        {
+            "typeId": "category",
+            "id": "7ae8590a-2fc1-4bd3-a46f-6c8f8ca40ee8"
+        },
+        {
+            "typeId": "category",
+            "id": "d801baf4-7c38-400e-967f-bfca4d79ae53"
+        },
+        {
+            "typeId": "category",
+            "id": "358282c8-498f-4957-ae37-b212d3c0168c"
+        },
+        {
+            "typeId": "category",
+            "id": "ca6cec0b-44fc-4362-8d04-517bb13db97d"
+        },
+        {
+            "typeId": "category",
+            "id": "9b458b89-0b33-437e-a3b9-7f18633064d4"
+        }
+    ],
+    "categoryOrderHints": {},
+    "slug": {
+        "zh": "proteasyl-tp-poe-30535744",
+        "en": "proteasyl-tp-poe-ls-9818-30535744",
+        "de": "proteasyl-tp-poe-ls-9818-30535744",
+        "es": "proteasyl-tp-poe-ls-9818-30535744",
+        "pt": "proteasyl-tp-poe-ls-9818-30535744"
+    },
+    "metaTitle": {
+        "en": "Proteasyl TP POE LS 9818",
+        "pt": "Proteasyl TP POE LS 9818"
+    },
+    "metaDescription": {
+        "en": "This is \"Proteasyl TP POE LS 9818\". A great product!",
+        "pt": "Este é \"Proteasyl TP POE LS 9818\". Um óptimo produto!"
+    },
+    "variants": [
+        {
+            "id": 2,
+            "sku": "50203640",
+            "key": "50203640",
+            "prices": [],
+            "images": [],
+            "dangerousGoodsIndicator":false,
+            "deletionFlag":false,
+            "name":{
+                "zh": "活性物 Proteasyl® TP POE ",
+                "en": "Proteasyl® TP POE LS 9818 ",
+                "de": "Proteasyl® TP POE LS 9818 ",
+                "es": "Proteasyl TP POE LS 9818 ",
+                "pt": "Proteasyl® TP POE LS 9818 "
+            },
+            "isSample":false,
+            "baseUOM":"KGM",
+            "packagingType": {
+                "key": "BULK",
+                "label": "BULK"
+            },
+            "casNumber":"Confidential",
+            "technical_name":"Aqua (and) Glycerin (and) Pisum Sativum (Pea) Extract.",
+            "storeVisibility":[
+                "carecreations-br"
+            ],
+            "publicStoreVisibility":[
+                "carecreations-br"
+            ],
+            "productGroup":[
+                {
+                    "pt": "Filtro UVA e UVB",
+                    "en": "UVA and UVB filter"
+                }
+            ],
+            "benefits":[
+                {
+                    "pt": "Vegano",
+                    "en": "Vegan"
+                },
+                {
+                    "pt": "Livre de Sulfato",
+                    "en": "Sulfate Free"
+                },
+                {
+                    "pt": "Alternativa ao Óleo mineral",
+                    "en": "Alternative to Mineral Oil"
+                },
+                {
+                    "pt": "Antioxidante",
+                    "en": "Antioxidant"
+                }
+            ],
+            "materialType":  {
+                "key": "PRODUCT",
+                "label": "PRD"
+            },
+            "assets": []
+        },
+        {
+            "id": 3,
+            "sku": "50232560",
+            "key": "50232560",
+            "prices": [],
+            "images": [],
+            "dangerousGoodsIndicator":false,
+            "deletionFlag":false,
+            "packagingSize":0.06,
+            "name":{
+                "zh": "活性物 Proteasyl® TP POE 0,06KG 塑料箱、盒",
+                "en": "Proteasyl® TP POE LS 9818 0,06KG Plastic boxes",
+                "de": "Proteasyl® TP POE LS 9818 0,06KG Kunststoffkisten",
+                "es": "Proteasyl TP POE LS 9818 0,06KG Cajas de plástico",
+                "pt": "Proteasyl® TP POE LS 9818 0,06KG Caixas de matéria plástica"
+            },
+            "packagingSizeText":{
+                "zh": "0,06KG 塑料箱、盒",
+                "en": "0,06KG Plastic boxes",
+                "de": "0,06KG Kunststoffkisten",
+                "es": "0,06KG Cajas de plástico",
+                "pt": "0,06KG Caixas de matéria plástica"
+            },
+            "isSample":true,
+            "baseUOM":"KGM",
+            "packagingType": {
+                "key": "VERP",
+                "label": "VERP"
+            },
+            "casNumber":"Confidential",
+            "technical_name":"Aqua (and) Glycerin (and) Pisum Sativum (Pea) Extract.",
+            "storeVisibility":[
+                "carecreations-br"
+            ],
+            "publicStoreVisibility":[
+                "carecreations-br"
+            ],
+            "productGroup":[
+                {
+                    "pt": "Filtro UVA e UVB",
+                    "en": "UVA and UVB filter"
+                }
+            ],
+            "benefits":[
+                {
+                    "pt": "Vegano",
+                    "en": "Vegan"
+                },
+                {
+                    "pt": "Livre de Sulfato",
+                    "en": "Sulfate Free"
+                },
+                {
+                    "pt": "Alternativa ao Óleo mineral",
+                    "en": "Alternative to Mineral Oil"
+                },
+                {
+                    "pt": "Antioxidante",
+                    "en": "Antioxidant"
+                }
+            ],
+            "materialType":  {
+                "key": "PRODUCT",
+                "label": "PRD"
+            },
+            "assets": []
+        },
+        {
+            "id": 4,
+            "sku": "50244918",
+            "key": "50244918",
+            "prices": [],
+            "images": [],
+            "dangerousGoodsIndicator":false,
+            "deletionFlag":true,
+            "packagingSize":0.06,
+            "name":{
+                "zh": "活性物 Proteasyl® TP POE 0,06KG 塑料瓶",
+                "en": "Proteasyl® TP POE LS 9818 0,06KG Plastic bottle",
+                "de": "Proteasyl® TP POE LS 9818 0,06KG Kunststoffflaschen",
+                "es": "Proteasyl TP POE LS 9818 0,06KG Botella de plástico",
+                "pt": "Proteasyl® TP POE LS 9818 0,06KG Garrafa de matéria plástica"
+            },
+            "packagingSizeText":{
+                "zh": "0,06KG 塑料瓶",
+                "en": "0,06KG Plastic bottle",
+                "de": "0,06KG Kunststoffflaschen",
+                "es": "0,06KG Botella de plástico",
+                "pt": "0,06KG Garrafa de matéria plástica"
+            },
+            "isSample":true,
+            "baseUOM":"KGM",
+            "packagingType": {
+                "key": "VERP",
+                "label": "VERP"
+            },
+            "casNumber":"Confidential",
+            "technical_name":"Aqua (and) Glycerin (and) Pisum Sativum (Pea) Extract.",
+            "storeVisibility":[
+                "carecreations-br"
+            ],
+            "publicStoreVisibility":[
+                "carecreations-br"
+            ],
+            "productGroup":[
+                {
+                    "pt": "Filtro UVA e UVB",
+                    "en": "UVA and UVB filter"
+                }
+            ],
+            "benefits":[
+                {
+                    "pt": "Vegano",
+                    "en": "Vegan"
+                },
+                {
+                    "pt": "Livre de Sulfato",
+                    "en": "Sulfate Free"
+                },
+                {
+                    "pt": "Alternativa ao Óleo mineral",
+                    "en": "Alternative to Mineral Oil"
+                },
+                {
+                    "pt": "Antioxidante",
+                    "en": "Antioxidant"
+                }
+            ],
+            "materialType":  {
+                "key": "PRODUCT",
+                "label": "PRD"
+            },
+            "assets": []
+        }
+    ],
+    "searchKeywords": {},
+    "hasStagedChanges": false,
+    "published": true,
+    "key": "30535744",
+    "createdAt": "2022-03-03T11:13:15.577Z",
+    "lastModifiedAt": "2023-01-17T13:51:12.892Z"
+}]
